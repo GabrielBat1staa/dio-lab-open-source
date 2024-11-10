@@ -1,21 +1,7 @@
+
 <html>
-<head>
-    <style>
-        body {
-            background-color: #000; /* Defina a cor desejada */
-            font-family: Arial, sans-serif;
-        }
-    </style>
-</head>
-<body>
-    <div>
-        <!-- Inclua aqui o conteúdo do README.md -->
-    </div>
-</body>
+<h1 style="font-size: 4em;">Gabriel Batista_dev</h1> 
 </html>
-<img align="left" height="200" src="https://media.giphy.com/media/PTBVMsYIOB0SBP4MVe/giphy.gif?cid=ecf05e47yb4i8x2dfv8c3ea5gxau6ndxre5apjhn116i7qq0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  /><h1 style="font-size: 4em;">Gabriel Batista_dev</h1> 
-
-
 
 
 
